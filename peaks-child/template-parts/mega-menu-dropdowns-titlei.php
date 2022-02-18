@@ -33,8 +33,8 @@
 					?>
 					
 						<ul>
-							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/10/PPKS_ParentEngagement_fy20_Eng.pdf">Parent &amp; Family Engagement Policy</a></li>
-							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/10/PPKS_ParentEngagement_fy20_Spa.pdf">Política de participación de padres y familias</a></li>
+							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2022/01/PPKS_ParentEngagement_fy22_Eng.pdf">Parent &amp; Family Engagement Policy</a></li>
+							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2022/01/PPKS_ParentEngagement_fy22_Spa.pdf">Política de participación de padres y familias</a></li>
 						</ul>
 					<?php 
 						//checks if this template section is loading into the menu or into the sidebar/content area and assigns the proper heading
@@ -50,8 +50,8 @@
 					?>
 					
 						<ul>
-							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/10/PPKS_ParentCompact_fy20_Eng.pdf">School/Parent Compact</a></li>
-							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/10/PPKS_ParentCompact_fy20_Spa.pdf">Pacto entre padres y familia</a></li>
+							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2022/01/PPKS_ParentCompact_fy22_Eng.pdf">School/Parent Compact</a></li>
+							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2022/01/PPKS_ParentCompact_fy22_Spa.pdf">Pacto entre padres y familia</a></li>
 						</ul>
 				</div>
 				<div class="dropDownColumn">
